@@ -1,0 +1,1 @@
+epoch,iter,train_loss(total),train_loss(0),train_loss(1),train_loss(2),train_loss(3),train_loss(sdf),train_l1-pred,train_l1-tgt,train_iou(0),train_iou(1),train_iou(2),train_iou(3),time
