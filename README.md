@@ -8,4 +8,4 @@ datasets of Matterport3D, ScanNet, and ICL-NUIM demonstrate that our method can 
 
 ## Acknowledgement
 
-Some code snippets are borrowed from [SG-NN](https://github.com/Totoro97/NeuS.git](https://github.com/angeladai/sgnn.git)https://github.com/angeladai/sgnn.git)
+Some code snippets are borrowed from [SG-NN](https://github.com/angeladai/sgnn.git)
